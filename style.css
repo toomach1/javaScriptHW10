@@ -1,0 +1,29 @@
+.flex-box {
+    display: flex;
+    /* justify-content: center; */
+    flex-wrap: nowrap;
+    flex-direction: column;
+    /* align-items: center; */
+    padding-bottom: 5px;
+    
+}
+
+.film {
+   
+    display: flex;
+   padding: 5px;
+}
+.description{
+    
+    padding: 15px;
+}
+.content{
+    outline: 2px solid #000;
+} 
+.NameFilm{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: baseline;
+    align-content: center;
+}
